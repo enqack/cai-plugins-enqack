@@ -10,8 +10,8 @@
     {
       "name": "enqack-loop",
       "source": {
-        "source": "github",
-        "repo": "enqack/enqack-loop",
+        "source": "url",
+        "url": "https://github.com/enqack/enqack-loop.git",
         "ref": "v0.2.0" 
       },
       "description": "A self-referential iterative agent loop based on Geoffrey Huntley's Ralph Wiggum technique.",
