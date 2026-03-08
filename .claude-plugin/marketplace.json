@@ -14,7 +14,7 @@
         "repo": "enqack/enqack-loop",
         "ref": "v0.1.0" 
       },
-      "description": "A self-referential iterative agent loop based on Geoffrey Huntley's \"Ralph Wiggum technique.\"",
+      "description": "A self-referential iterative agent loop based on Geoffrey Huntley's Ralph Wiggum technique.",
       "category": "development"
     }
   ],
