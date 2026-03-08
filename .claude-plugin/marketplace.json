@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-plugins-enqack",
+  "description": "Directory of Claude Code extensions.",
+  "owner": {
+    "name": "enqack",
+    "email": "enqack@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "enqack-loop",
+      "source": {
+        "source": "github",
+        "repo": "enqack/enqack-loop",
+        "ref": "v0.1.0" 
+      },
+      "description": "A self-referential iterative agent loop based on Geoffrey Huntley's \"Ralph Wiggum technique.\"",
+      "category": "development"
+    }
+  ],
+}
+
